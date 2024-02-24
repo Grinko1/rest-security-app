@@ -10,7 +10,6 @@ import security.models.MyUser;
 import security.repository.UserRepository;
 
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 @Service

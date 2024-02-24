@@ -3,8 +3,6 @@ package security.models;
 import jakarta.persistence.*;
 import lombok.Data;
 
-
-
 @Data
 @Entity
 @Table(name = "user")
